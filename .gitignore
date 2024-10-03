@@ -59,6 +59,8 @@ debug.log
 
 # VSCode
 .vscode/
+.metals/
+.scala-build/
 .history/
 
 # emacs files
